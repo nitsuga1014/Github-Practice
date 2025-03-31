@@ -1,3 +1,3 @@
 <?php
-echo "Hello, Docker with PHP!";
+echo "Bossing, kamusta ang buhay buhay!";
 ?>
